@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\N13391_nofa_model;
 
 class N13391_nofa extends Controller
 {
